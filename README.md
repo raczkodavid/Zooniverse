@@ -83,6 +83,24 @@ A comprehensive Laravel-based Zoo Management System for creating and managing en
 - Enclosures can contain multiple animals (One-to-Many)
 - Enclosures track compatible animal types (predator or herbivore)
 
+## 📸 Screenshots
+
+### 1. Homepage Dashboard
+
+![Homepage Dashboard](screenshots/homepage.png)
+
+### 2. Enclosures List
+
+![Enclosures Management](screenshots/enclosures-list.png)
+
+### 3. Animal Management
+
+![Animal Form](screenshots/animal-form.png)
+
+### 4. Enclosure Details
+
+![Enclosure Details](screenshots/enclosure-details.png)
+
 ## 🧑‍💻 About
 
 This project was created as an assignment for the Server-side Programming course at ELTE University.
